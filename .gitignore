@@ -1,0 +1,12 @@
+# Virtual machine files - do not commit
+*.vdi
+*.vmdk
+*.vhd
+*.vhdx
+*.iso
+*.ova
+*.ovf
+
+# Windows
+Thumbs.db
+Desktop.ini
