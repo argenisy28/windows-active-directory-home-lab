@@ -225,7 +225,7 @@ Validation:
 
 ## Troubleshooting Highlights
 
-This lab intentionally included real troubleshooting rather than only a clean setup path.
+This lab included real troubleshooting.
 
 Examples:
 - Corrected an incorrect `/8` subnet mask to `/24`
